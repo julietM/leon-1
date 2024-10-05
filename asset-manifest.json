@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/julietM/leon-1/static/css/main.2aaece72.css",
+    "main.js": "/julietM/leon-1/static/js/main.d314b68f.js",
+    "static/js/453.5957734c.chunk.js": "/julietM/leon-1/static/js/453.5957734c.chunk.js",
+    "index.html": "/julietM/leon-1/index.html",
+    "main.2aaece72.css.map": "/julietM/leon-1/static/css/main.2aaece72.css.map",
+    "main.d314b68f.js.map": "/julietM/leon-1/static/js/main.d314b68f.js.map",
+    "453.5957734c.chunk.js.map": "/julietM/leon-1/static/js/453.5957734c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2aaece72.css",
+    "static/js/main.d314b68f.js"
+  ]
+}
